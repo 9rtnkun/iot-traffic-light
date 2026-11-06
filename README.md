@@ -75,7 +75,7 @@ npm run dev
 จากนั้นเปิด URL ที่ Vite แสดง เช่น:
 
 ```text
-http://localhost:5173
+http://localhost:1111
 ```
 
 ## MQTT Topics
