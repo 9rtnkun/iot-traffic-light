@@ -1,3 +1,4 @@
+   [🇹🇭 ไทย](README.md) | 🇬🇧 English
 # IoT Traffic Light - Hackathon 2 (Control and Monitor a Traffic Light over MQTT)
 
 Project: an IoT system that controls and monitors a traffic light over MQTT.
