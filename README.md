@@ -1,3 +1,4 @@
+   🇹🇭 ไทย | [🇬🇧 English](README.en.md)
 # IoT Traffic Light - Hackathon 2 (ควบคุมและ Monitor ไฟจราจรผ่าน MQTT)
 
 โปรเจกต์: ระบบ IoT ควบคุมไฟจราจรและ Monitor ผ่าน MQTT
