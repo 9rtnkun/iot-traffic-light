@@ -5,15 +5,15 @@
 // =====================
 // 1) Wi-Fi (ข้อ 1)
 // =====================
-const char* WIFI_SSID = "iot_class";
-const char* WIFI_PASSWORD = "88451336";
+const char* WIFI_SSID = "***"; // กำหนดชื่อและรหัสผ่าน Wi-Fi ของคุณ
+const char* WIFI_PASSWORD = "***"; // กำหนดชื่อและรหัสผ่าน Wi-Fi ของคุณ
 
 // =====================
 // 2) MQTT (ข้อ 1)
 // =====================
 const char* MQTT_BROKER = "broker.emqx.io";
 const int   MQTT_PORT = 1883;
-const char* DEVICE_ID = "124-2";
+const char* DEVICE_ID = "***"; // กำหนดชื่ออุปกรณ์ของคุณ
 
 String baseTopic;
 String topicLdr;      // ข้อ 2: ส่งค่า LDR
